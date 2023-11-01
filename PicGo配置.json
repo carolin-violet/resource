@@ -1,0 +1,52 @@
+{
+  "picBed": {
+    "current": "githubPlus",
+    "uploader": "githubPlus",
+    "smms": {
+      "token": ""
+    },
+    "github": {
+      "repo": "carolin-violet/resource",
+      "branch": "master",
+      "token": "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",
+      "path": "images/",
+      "customUrl": "https://cdn.jsdelivr.net/gh/carolin-violet/resource/"
+    },
+    "githubPlus": {
+      "repo": "carolin-violet/resource",
+      "branch": "master",
+      "token": "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",
+      "path": "images/",
+      "customUrl": "https://cdn.jsdelivr.net/gh/carolin-violet/resource/",
+      "origin": "github"
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": true,
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "privacyEnsure": true,
+    "pasteStyle": "URL",
+    "autoRename": true
+  },
+  "needReload": false,
+  "picgoPlugins": {
+    "picgo-plugin-github-plus": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "picgo-plugin-github-plus": {
+    "lastSync": "2023-11-01 10:24:29"
+  }
+}
